@@ -10,6 +10,3 @@ layout: default
 >_Jul 2020_<br>
 >Our team at HyperVerge, Inc ranked 4th at the DocVQA challenge hosted at CVPR 2020’s Workshop on Text and Documents in the Deep Learning Era. This post summarises our approach and learnings.
 <br>
-<br>
-<hr>
-### <a href="https://anisha2102.github.io">Back to Website</a>
