@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+Blogposts
 
 ## <a href="https://medium.com/@anishagunjal7/the-eccv2020-experience-8bd1f068f673">The ECCV2020 Experience</a>
 >_Sep 2020_<br>
